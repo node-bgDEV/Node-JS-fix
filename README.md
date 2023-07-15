@@ -14,3 +14,8 @@ simple Node JS fix made by bgDEV!
     USB Gamepad -- Converts Switch with Joycon into a USB HID Gamepad
     Hardware and Peripherals info (SoC, Fuses, RAM, Display, Touch, eMMC, SD, Battery, PSU, Charger)
     Many other tools like Archive Bit Fixer, Touch Calibration, SD/eMMC Benchmark, AutoRCM enabler and more
+
+how to install?
+
+Simple!
+on windows just run the .exe file and on linux run the .exe within wine.
